@@ -1,29 +1,10 @@
-## Welcome to my corner of the web!
+## Home
 
-This is my webpage. This is where I talk about myself
+Hi I'm an incoming PhD student at Georgia Tech. I'm interested in signal processing, machine learning and pattern recognition. 
 
-
+I completed my undergraduate degree in Electronics and Communication Engineering at [National Institute of Technology - Karnataka, India.](https://www.nitk.ac.in/) 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](Labrador.jpg, "Labrador")
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
