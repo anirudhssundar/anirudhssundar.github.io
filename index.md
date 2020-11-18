@@ -1,9 +1,13 @@
 ## Home
 
-Hi I'm an incoming PhD student at Georgia Tech. I'm interested in signal processing, machine learning and pattern recognition. 
+Hi!
+I'm an incoming PhD student at Georgia Tech. I'm interested in signal processing, machine learning and pattern recognition. 
 
 I completed my undergraduate degree in Electronics and Communication Engineering at [National Institute of Technology - Karnataka, India.](https://www.nitk.ac.in/) 
-### Markdown
+
+I'm interested in [Interests](interests.md)
+
+
 
 I am writing something in markdown. This is a test line. Ignore.
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
