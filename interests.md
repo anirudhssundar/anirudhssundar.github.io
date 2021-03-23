@@ -1,8 +1,7 @@
 I'm interested in  
 Formula 1  
 Tennis   
-Football  
-Dogs  
+Soccer
 
 
 [Back](https://anirudhssundar.github.io/)
