@@ -7,9 +7,9 @@ I completed my undergraduate degree in Electronics and Communication Engineering
 
 [Publications](Publications.md)  
 [Other Interests](interests.md)  
-[LinkedIn](www.linkedin.com/in/anirudhssundar)  
+[<img src="Images/linkedin.png" width="25"/>](www.linkedin.com/in/anirudhssundar)
 <!---
 [Updated CV](https://drive.google.com/file/d/1nJfcqW3kQMRTvRHm64-l-hMA8sjMhYFR/view?usp=sharing)  
 -->
-[<img src="Images/google_scholar.png" width="50"/>](https://scholar.google.com/citations?user=zaosyNUAAAAJ&hl=en)
+[<img src="Images/google_scholar.png" width="25"/>](https://scholar.google.com/citations?user=zaosyNUAAAAJ&hl=en)
 
