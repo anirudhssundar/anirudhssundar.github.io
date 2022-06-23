@@ -11,5 +11,5 @@ I completed my undergraduate degree in Electronics and Communication Engineering
 <!---
 [Updated CV](https://drive.google.com/file/d/1nJfcqW3kQMRTvRHm64-l-hMA8sjMhYFR/view?usp=sharing)  
 -->
-
+[<img src="Images/google_scholar.png">](https://scholar.google.com/citations?user=zaosyNUAAAAJ&hl=en)
 
