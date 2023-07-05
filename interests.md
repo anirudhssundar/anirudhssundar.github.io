@@ -2,16 +2,16 @@ I'm into Age of Empires 2 and Formula 1. I also like to visit National Parks in 
 
 
 Mount Rainier National Park  
-![Mount Rainier](image_url)
+![Mount Rainier](Images/Mount_Rainier.png)
 
 Mammoth Cave National Park
-![Mammoth Cave]()
+![Mammoth Cave](Images/Mammoth_Cave.png)
 
 Pinnacles National Park
-![Pinnacles]()
+![Pinnacles](Images/Pinnacles.png)
 
 Great Smoky Mountains National Park
-![Smoky Mountains]()
+![Smoky Mountains](Images/Smoky_Mountains.png)
 
 
 [Back](https://anirudhssundar.github.io/)
