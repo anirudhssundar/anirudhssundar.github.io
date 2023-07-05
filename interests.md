@@ -2,7 +2,7 @@ I'm into Age of Empires 2 and Formula 1. I also like to visit National Parks in 
 
 
 Mount Rainier National Park  
-![Mount Rainier](Images/Mount_Rainier.png)
+<img src="Images/Mount_Rainier.png" alt="drawing" style="width:200px;"/>
 
 Mammoth Cave National Park
 ![Mammoth Cave](Images/Mammoth_Cave.png)
