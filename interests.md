@@ -16,7 +16,7 @@ Great Smoky Mountains National Park
 Zion National Park  
 <img src="Images/Zion.jpeg" alt="drawing" style="width:300px;"/>
 
-Bryce Canyon National Park
+Bryce Canyon National Park  
 <img src="Images/Bryce_Canyon.jpeg" alt="drawing" style="width:300px;"/>
 
 [Back](https://anirudhssundar.github.io/)
