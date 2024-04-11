@@ -13,5 +13,10 @@ Pinnacles National Park
 Great Smoky Mountains National Park  
 <img src="Images/Smoky_Mountains.png" alt="drawing" style="width:300px;"/>
 
+Zion National Park  
+<img src="Images/zion.jpeg" alt="drawing" style="width:300px;"/>
+
+Bryce Canyon National Park
+<img src="Images/Bryce_Canyon.jpeg" alt="drawing" style="width:300px;"/>
 
 [Back](https://anirudhssundar.github.io/)
