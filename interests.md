@@ -19,4 +19,10 @@ Zion National Park
 Bryce Canyon National Park  
 <img src="Images/Bryce_Canyon.jpeg" alt="drawing" style="width:300px;"/>
 
+North Cascades National Park  
+<img src="Images/North_Cascades.jpeg" alt="drawing" style="width:300px;"/>
+
+Mount Raininer Part 2
+<img src="Images/Mt_Rainier_Pt2.jpeg" alt="drawing" style="width:300px;"/>
+
 [Back](https://anirudhssundar.github.io/)
