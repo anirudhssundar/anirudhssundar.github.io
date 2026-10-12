@@ -1,4 +1,4 @@
-I'm into Age of Empires 2 and Formula 1. I also like to visit National Parks in the US whenever I get a chance. Here is a list of all the National Parks I've visited since starting my PhD:
+I'm into Age of Empires 2 and Formula 1. I also like to visit National Parks in the US whenever I get a chance. Here is a list of all the National Parks I've visited:
 
 
 Mount Rainier National Park  
@@ -22,7 +22,7 @@ Bryce Canyon National Park
 North Cascades National Park  
 <img src="Images/North_Cascades.jpeg" alt="drawing" style="width:300px;"/>
 
-Mount Raininer Part 2
+Mount Raininer Part 2  
 <img src="Images/Mt_Rainier_Pt2.jpeg" alt="drawing" style="width:300px;"/>
 
 [Back](https://anirudhssundar.github.io/)
