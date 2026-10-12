@@ -1,7 +1,7 @@
 ## Home
 
 Hi!   
-I'm an ECE PhD student at [Georgia Tech](https://www.ece.gatech.edu/) in the AI Virtual Assitant (AVA) Lab advised by [Professor Larry Heck](https://larryheck.github.io/). I'm interested in multimodal machine learning for conversational AI. My research focuses on situated dialogue over structured knowledge sources, with a focus on [tables](https://youtu.be/dWOGbu5BcT0?si=mqrGxwZ4SPqTRwWq)
+I'm an Applied Scientist at Microsoft. I graduated with a PhD in ECE from [Georgia Tech](https://www.ece.gatech.edu/) in the AI Virtual Assitant (AVA) Lab advised by [Professor Larry Heck](https://larryheck.github.io/). My thesis was on Language Modeling for Scientific Documents. 
 
 I completed my undergraduate degree in Electronics and Communication Engineering at [National Institute of Technology - Karnataka, India.](https://www.nitk.ac.in/) 
 
