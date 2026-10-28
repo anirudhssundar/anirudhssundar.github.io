@@ -25,6 +25,13 @@ North Cascades National Park
 Mount Raininer Part 2  
 <img src="Images/Mt_Rainier_Pt2.jpeg" alt="drawing" style="width:300px;"/>
 
+
+Wind Cave National Park  
+<img src="Images/Wind_Cave.jpeg" alt="drawing" style="width:300px;"/>
+
+Badlands National Park  
+<img src="Images/Badlands.jpeg" alt="drawing" style="width:300px;"/>
+
 Olympic National Park  
 <img src="Images/Olympic.jpeg" alt="drawing" style="width:300px;"/>
 
